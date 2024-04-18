@@ -1,11 +1,15 @@
 # BEE2041_Project
-Final project of the Term
+End of Term Empirical Project
 
 #Disclaimers
+This readme is for the BEE2041_Project repository (open to the public on GitHub) and explains the structure of the repo. Another readme is provided for any zip files for any submission of the work.
 
+Collaborator: (710077911)
+Discussions were held with this person both in web scraping (processes, syntax, and regex) and in bug fixing the working directories (troubleshooting for data visualisation).
 
 
 #Explaining Repository Contents
+
 
 
 #A Research "Blog"
