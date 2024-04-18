@@ -16,9 +16,6 @@ Thus, The aim of this research is to try and scrape data from public fan sites a
 #Disclaimers
 This readme is for the BEE2041_Project repository (open to the public on GitHub) and explains the structure of the repo. Another readme is provided for any zip files for any submission of the work (refer to the STUDENTNUMBER zip file submission).
 
-Collaborator: (710077911)
-Discussions were held with this person for both web scraping (processes, syntax, and regex familiarisation) and bug fixing the source code (troubleshooting for data visualisation).
-
 As of the creation of this code, there are 85 playable characters in the game. Should any errors occur in the web scraping, then it is likely that a new character has been released with statistics (names, dates, or otherwise) that does not fit in properly with the web scraper. It is also likely that any of the sites used for the scrape may have changed elements in the source code or the site no longer exists. For that reason, please read the instructions section carefully to fully access the analyses done on this source code.
 
 
