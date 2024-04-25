@@ -58,5 +58,6 @@ In the case of errors in the web scraping:
 	Troubleshooting will need to be done in order to download and extract the appropriate data.
 	However, any scraping errors should not result in any problems with the analysis itself.
 	Use data from the already-made snapshot of the web scrape data (df1.csv in Data_files).
-	Another potential error may appear is in the "Scraping Names and Dates from g8" section of "Data Scraping and Pre-Processing." Any errors appearing here is likely due to the built-in pandas data frame web scraper picking up the incorrect data frame, thus leading to format or Type errors. In order to resolve this, please follow the steps in the markdown/comments of the source code.
+
+Another potential error may appear is in the "Scraping Names and Dates from g8" section of "Data Scraping and Pre-Processing." Any errors appearing here is likely due to the built-in pandas data frame web scraper picking up the incorrect data frame, thus leading to format or Type errors. In order to resolve this, please follow the steps in the markdown/comments of the source code.
 
